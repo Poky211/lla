@@ -1,20 +1,19 @@
 {
 	"songs": [
-		["Bopeebo", "dad", [146, 113, 253]],
-		["Fresh", "dad", [146, 113, 253]],
-		["Dad Battle", "dad", [146, 113, 253]]
+		["School", "pico", [131, 0, 31]]
 	],
 
 	"weekCharacters": [
-		"dad",
-		"bf",
-		"gf"
+		"",
+		"",
+		""
 	],
-	"weekBackground": "stage",
+	"weekBackground": "school",
+	"difficulties": "easy, normal, hard, getreal",
 
-	"storyName": "Daddy Dearest",
-	"weekBefore": "tutorial",
-	"weekName": "Week 1",
+	"storyName": "SCHOOL",
+	"weekBefore": "week2",
+	"weekName": "Week 3",
 	"startUnlocked": true,
 
 	"hideStoryMode": false,
